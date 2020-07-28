@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "774338460034",
+    "firebase_url": "https://tictapp-6db1f.firebaseio.com",
+    "project_id": "tictapp-6db1f",
+    "storage_bucket": "tictapp-6db1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774338460034:android:c09a73011c4544f16e379b",
+        "android_client_info": {
+          "package_name": "com.iniz.tictapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774338460034-obgjfn613ndh3ub4edb3o9qjck3mgtig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuF0vuomgE4zd4Htqipmn-hUze0v3SKsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774338460034-obgjfn613ndh3ub4edb3o9qjck3mgtig.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "774338460034-04ll0efellmq5o4ngtc95khis0r9fvnh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iniz.tictapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774338460034:android:6da45295886bfed86e379b",
+        "android_client_info": {
+          "package_name": "com.iniz.tictapp_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774338460034-obgjfn613ndh3ub4edb3o9qjck3mgtig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuF0vuomgE4zd4Htqipmn-hUze0v3SKsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774338460034-obgjfn613ndh3ub4edb3o9qjck3mgtig.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "774338460034-04ll0efellmq5o4ngtc95khis0r9fvnh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iniz.tictapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774338460034:android:5b83bbb54fa3108c6e379b",
+        "android_client_info": {
+          "package_name": "com.iniz.tictapp_seller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774338460034-obgjfn613ndh3ub4edb3o9qjck3mgtig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuF0vuomgE4zd4Htqipmn-hUze0v3SKsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774338460034-obgjfn613ndh3ub4edb3o9qjck3mgtig.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "774338460034-04ll0efellmq5o4ngtc95khis0r9fvnh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iniz.tictapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
